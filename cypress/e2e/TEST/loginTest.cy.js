@@ -14,3 +14,5 @@ describe('Login page', () => {
         sauceLogin.clickLogin();
     });
 });
+
+///adding ciomment to test git cammands
